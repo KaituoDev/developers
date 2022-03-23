@@ -22,4 +22,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Unzip
-        run: unzip $GITHUB_WORKSPACE/dependencies.zip $GITHUB_WORKSPACE
+        run: unzip $GITHUB_WORKSPACE/dependencies.zip
