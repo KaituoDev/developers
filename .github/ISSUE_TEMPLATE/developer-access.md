@@ -3,7 +3,7 @@ name: Developer access
 about: for those who want to join us
 title: Apply for developer access
 labels: request
-assignees: YFshadaow, LeChocolatChaud
+assignees: YFshadaow, LeChocolatChaud, MSDNicrosoft
 
 ---
 
